@@ -7,3 +7,7 @@
     transform: rotate(360deg) scale(1);
     transition: .2s all;
 }
+
+#contentShow1 {
+    margin-bottom: 5%;
+}
