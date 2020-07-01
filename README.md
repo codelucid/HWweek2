@@ -1,11 +1,12 @@
-
 # My Portfolio  
 
 ![GitHub license](https://img.shields.io/badge/license-None-brightgreen)
 
 ## Description  
 
-This is my portfolio that showcases my newly learned skills, as a Web Developer! Thank you for checking out my portfolio!  
+This is my portfolio that showcases my newly learned skills, as a Web Developer! Thank you for checking out my portfolio! 
+
+[My Portfolio](https://codelucid.github.io/Portfolio/ "My Portfolio"){:target="_blank"}
 
 ## Table of Contents
 - Installation 
