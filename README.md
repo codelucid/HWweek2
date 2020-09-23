@@ -1,6 +1,6 @@
 # My Portfolio  
 
-![GitHub license](https://img.shields.io/badge/license-None-brightgreen)
+![GitHub license](https://img.shields.io/badge/Skill-HTML-brightgreen) ![GitHub license](https://img.shields.io/badge/Skill-CSS-blue) 
 
 ## Description  
 
@@ -29,9 +29,8 @@ This is a repository for creating and updating my portfolio.
 
 ## License  
 
-The license for this project:
-None  
-
+![GitHub license](https://img.shields.io/badge/license-None-brightgreen)
+  
 ## Contributing  
 
 This is how the user can contribute to the project:
